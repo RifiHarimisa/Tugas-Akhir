@@ -1,0 +1,7 @@
+NOTEEE
+
+## PELAMAR ##
+- Notif Lamaran di ACC/TOLAK
+- Login Menggunakan Id Telegram Setelah melakukan verifikasi
+- Fitur Ubah Password
+
